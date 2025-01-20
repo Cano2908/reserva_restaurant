@@ -1,0 +1,128 @@
+# Byte-compiled / optimized / DLL files
+*$py.class
+*.py[cod]
+__pycache__/
+
+# C extensions
+*.so
+
+# Cython debug symbols
+cython_debug/
+
+# Django stuff:
+*.log
+db.sqlite3
+local_settings.py
+
+# Distribution / packaging
+.Python
+.installed.cfg
+*.egg
+*.egg-info/
+MANIFEST
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+share/python-wheels/
+var/
+wheels/
+
+# dotenv
+.env
+.python-version
+
+# FastAPI specific
+*.db
+*.log
+*.sqlite3
+
+# Flask stuff:
+.webassets-cache
+instance/
+
+# Installer logs
+pip-delete-this-directory.txt
+pip-log.txt
+
+# IPython
+ipython_config.py
+profile_default/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# mkdocs documentation
+/site
+
+# mypy
+.dmypy.json
+.mypy_cache/
+dmypy.json
+
+# Nose test / coverage reports
+.cache
+.coverage
+.coverage.*
+.hypothesis/
+.nox/
+.tox/
+*.cover
+*.py,cover
+coverage.xml
+htmlcov/
+nosetests.xml
+
+# PyBuilder
+target/
+
+# pyenv
+.python-version
+
+# PyInstaller
+*.manifest
+*.spec
+
+# pyre type checker
+.pyre/
+
+# pytype static type analyzer
+.pytype/
+
+# Rope project settings
+.ropeproject
+
+# Scrapy stuff:
+.scrapy
+
+# Sphinx documentation
+docs/_build/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# celery beat schedule file
+celerybeat-schedule
+
+# Translations
+*.mo
+*.pot
+
+# Unit test / coverage reports
+.pytest_cache/
+
+# VCS
+.idea/
+.vercel
+.vscode/
+ENV/
+env.bak/
+env/
+venv.bak/
+venv/

@@ -1,0 +1,13 @@
+pydantic
+fastapi
+sqlmodel==0.0.22
+asyncpg
+uvicorn
+pylint-pytest==1.1.8
+pytest==8.2.0
+pytest-asyncio==0.23.6
+python-dotenv==1.0.1
+psycopg2-binary==2.9.10
+pyutils-sqlmodel==0.2.2
+passlib
+bcrypt
